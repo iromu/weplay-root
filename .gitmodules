@@ -1,0 +1,21 @@
+[submodule "modules/common"]
+	path = modules/common
+	url = https://github.com/iromu/weplay-common.git
+[submodule "modules/emulator"]
+	path = modules/emulator
+	url = https://github.com/iromu/weplay-emulator.git
+[submodule "modules/rom"]
+	path = modules/rom
+	url = https://github.com/iromu/weplay-rom.git
+[submodule "modules/web"]
+	path = modules/web
+	url = https://github.com/iromu/weplay-web.git
+[submodule "modules/discovery"]
+	path = modules/discovery
+	url = https://github.com/iromu/weplay-discovery.git
+[submodule "modules/compressor"]
+	path = modules/compressor
+	url = https://github.com/iromu/weplay-compressor.git
+[submodule "modules/io"]
+	path = modules/io
+	url = https://github.com/iromu/weplay.git
